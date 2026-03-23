@@ -120,7 +120,7 @@ const buttons_1 = document.querySelectorAll('.scroll-btn-1');
     });
   });
 
-new WOW().init();
+
 
 
 
